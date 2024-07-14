@@ -1,0 +1,27 @@
+html { background: #111; }
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body { background: #d3d3d3; width: 900px; margin: 50 auto; padding: 50;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: darkgrey;
+  border-width: 6px;
+  border-style: dashed;
+  width: 700px;
+   line-height: 2;
+  font-family: "Oswald", sans-serif;
+    }
+h1 { 
+  font-family: "Playwrite US Modern", bold;  
+ }
+h2 {
+  font-family: "Playwrite US Modern", bold;
+}
+h3 {  
+  font-family: "Playwrite US Modern", bold;
+}
